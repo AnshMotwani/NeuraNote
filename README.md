@@ -1,4 +1,4 @@
-# NeuraNote - A Notion Clone
+# NeuraNote
 
 A powerful note-taking application with markdown editing, graph visualization, and AI-powered features.
 
